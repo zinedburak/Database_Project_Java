@@ -217,8 +217,8 @@ public class Main {
 		String[] burak= new String[4];
 		burak[0] = "localhost:3306";
 		burak[1] = "202_hw_update";
-		burak[2] = "zined";
-		burak[3] = "1052";
+		burak[2] = "";
+		burak[3] = "";
 
 
 		DBConnection database_connection = null;
